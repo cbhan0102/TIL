@@ -245,3 +245,43 @@ ARQ : 전송로에서 발생하는 데이터의 오류를 송신 측 또는 수�
 
 유비쿼터스공간
 만지지 않아도 공간에 존재하거나 공간에 관한 정보를 사용자가 알 수 있는 ‘현실체가지능적으로 증강된 공간’으로인식함
+
+
+[이산수학]
+관계
+두 집합 X와 Y가 존재하고 X에서 Y로의 관계 R이 있을 때, R은 이들의 곱집합 X×Y의 부분집합이다. 만약 x와 y가 각각 X와 Y의 원소이고 (x, y)∈R이면 xRy로 표기하며, x는 y와 R의 관계가 있다라고 한다. 두 집합 X와 Y가 X=Y를 만족하면 이들 사이의 관계 R을 X에서의 관계라고 한다.
+[정의 6.1]
+[참고] http://en.wikipedia.org/wiki/Relation_(mathematics)
+
+관계의 성질(반사적, 대칭적, 추이적)
+집합 A에 대한 관계 R이 있을 때,
+(1) 모든 a∈A에 대해 aRa이면 반사적이라 한다.
+(2) 모든 a,b∈A에 대해 aRb→bRa 가 성립하는 경우 관계 R은 대칭적이라 한다.
+(3) 모든 a,b,c∈A에 대해 (aRb∧bRc)→aRc가 성립하는 경우 관계 R은 추이적이라고 한다.
+[정의 6.2]
+[참고] http://en.wikipedia.org/wiki/Reflexive_relation
+http://en.wikipedia.org/wiki/Symmetric_relation
+http://en.wikipedia.org/wiki/Transitive_relation
+
+역관계
+집합 X에서 집합 Y로의 관계 R이 있을 때, 관계를 구성하는 각 순서쌍의 원소 순서를 바꾸면 Y에서 X로의 관계가 되며, 이를 역관계라고 한다. 기호로 R⁻¹이라 표기하며 다음과 같이 정의한다.
+R⁻¹={(y,x)∣(x,y)∈R}
+[정의 6.3]
+[참고] http://en.wikipedia.org/wiki/Inverse_relation
+
+합성관계
+집합 A에서 집합 B로의 관계 R이 있고, 집합 B에서 집합 C로의 관계 S가 있을 때,
+S ∙ R={(a,c)∈A×C ∣ a∈A,b∈B,c∈C,(a,b)∈R,(b,c)∈S}로 정의되는 A에서 C로의 관계를 합성관계라 한다.
+[정의 6.4]
+[참고] http://en.wikipedia.org/wiki/Composition_of_relations
+
+동치관계
+집합 A에 대한 관계 R이 있을 때, R이 반사적이고, 대칭적이고, 추이적이면 R은 동치관계이다.
+[정의 6.5]
+[참고] http://en.wikipedia.org/wiki/Equivalence_relation
+
+동치류
+집합 A에 대한 관계 R이 있을 때, A의 각 원소 a에 대하여 a의 동치류는 a와 R의 관계를 가지는 A의 원소들의 집합이며, [a]로 표기한다. 기호로 나타내면
+[a]={x∈A∣xRa} 또는 [a]={x∈A∣aRx} 이다.
+[정의 6.6]
+[참고] http://en.wikipedia.org/wiki/Equivalence_class
