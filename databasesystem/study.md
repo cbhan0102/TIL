@@ -285,3 +285,25 @@ S ∙ R={(a,c)∈A×C ∣ a∈A,b∈B,c∈C,(a,b)∈R,(b,c)∈S}로 정의되는
 [a]={x∈A∣xRa} 또는 [a]={x∈A∣aRx} 이다.
 [정의 6.6]
 [참고] http://en.wikipedia.org/wiki/Equivalence_class
+
+명제(Discrete mathematics)
+[정의2.1]
+참과 거짓을 구별할 수 있는 문장이나 수학적 식
+추가설명 - 합성명제, 조건명제, 쌍조건명제, 항진명제, 모순명제 등의 의미도 확인하기바람.
+[참고] http://en.wikipedia.org/wiki/Discrete_mathematics
+
+논리적 동치
+어떤 주어진 문제를 수학적 표현(방정식)으로 변환하는 것이다.
+[정의 2.7]
+두 명제 𝒑 와 𝒒 가 논리적으로 동등하면 논리적 동치라고 하고, 𝒑≡𝒒 로 표시한다.
+[참고] http://en.wikipedia.org/wiki/Abstraction
+
+명제함수(propositional function)
+[정의 2.9]
+변수의 값에 의해 함수의 진리값이 결정되는 문장이나 식
+[참고] http://en.wikipedia.org/wiki/Algorithm
+
+추론(inference)
+[정의 2.12]
+참으로 알려진 명제를 기초로 하여 다른 명제를 유도해 내는 과정을 추론이라고 한다.
+
