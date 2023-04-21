@@ -362,6 +362,21 @@ SoC 개발의 기술적 한계
 유비쿼터스 네트워크나 초소형 휴먼 인터페이스 분야의 핵심요소인 3차원 미소 구조물, 센서 및 구동 장치 등을 소형화 및 고정밀화하고 복합화를 가능하게 하는 시스템화 기술
 
 [이산수학]
+이산수학(Discrete mathematics)
+이산적인 수학구조에 대해서 연구하는 학문.
+
+
+Discrete mathematics is the study of mathematical structures that are fundamentally discrete rather than continuous.
+[참고] http://en.wikipedia.org/wiki/Discrete_mathematics
+2. 추상화(abstraction)
+   문제와 관련된 핵심내용만 남기고 관련 없는 내용을 제거하여 문제를 단순화 시키는 과정.
+   Abstraction is a process by which concepts are derived from the usage and classification of literal ("real" or "concrete") concepts, first principles (such as an axiom), or other methods.
+   [참고] http://en.wikipedia.org/wiki/Abstraction
+3. 알고리즘(algorithm)
+   알고리즘 표현방법으로는 컴퓨터 프로그래밍 언어(computer programming language), 순서도 (flow chart), 의사코드 (pseudocode) 등의 방법이 있음.
+   An algorithm is a set of instructions, sometimes called a procedure or a function, that is used to perform a certain task.
+   [참고] http://en.wikipedia.org/wiki/Algorithm
+4. 
 관계
 두 집합 X와 Y가 존재하고 X에서 Y로의 관계 R이 있을 때, R은 이들의 곱집합 X×Y의 부분집합이다. 만약 x와 y가 각각 X와 Y의 원소이고 (x, y)∈R이면 xRy로 표기하며, x는 y와 R의 관계가 있다라고 한다. 두 집합 X와 Y가 X=Y를 만족하면 이들 사이의 관계 R을 X에서의 관계라고 한다.
 [정의 6.1]
