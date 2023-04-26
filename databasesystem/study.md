@@ -306,7 +306,23 @@ TCP : TCP/IP에서 신뢰성이 보장되는 데이터 전송 서비스로 데�
 
 세그먼트 : TCP가 절단하여 전송하는 데이터로 20에서 60바이트의 헤더와 응용 프로그램의 데이터로 구성
 
+HTTP : HTTP(Hyper Text Transfer Protocol)는 간단한 프로토콜로 웹을 사용하는 클라이언트가 사이트 정보를 요청하고 서버가 응답하는 프로토콜
 
+HTTPS : HTTPS(HyperText Transfer Protocol over Secure Socket Layer)는 HTTP의 보안이 강화된 버전
+
+FTP : FTP 서버와 FTP 클라이언트 간에 접속을 하고, 파일을 전송하는 프로토콜
+
+SFTP : SFTP(SSH File Transfer Protocol)는 SSH 파일 전송 프로토콜로써 신뢰할 수 있는 데이터 흐름을 통해 파일 접근, 파일 전송, 파일 관리를 제공
+
+TELNET : TELNET(텔넷)은 TCP/IP에서의 응용 계층 프로토콜 중 하나로 원격지의 컴퓨터를 이용하는 가상 단말 기능을 실현하기 위한 프로토콜
+
+SSH : SSH(Secure SHell)은 서버(원격지 호스트)에 접속하기 위해 사용되는 인터넷 프로토콜
+
+SMTP : 메일을 송신할 때 사용하는 프로토콜로써, TCP/IP 호스트 사이의 메일을 전달할 때 사용
+
+POP3 : 메일을 전송받을 때 사용하는 프로토콜로써, 로컬에서 메일을 수정, 삭제해도 메일서버에는 변화가 없음
+
+IMAP : 메일을 전송받을 때 사용되는 또 하나의 프로토콜로써, POP3의 단점인 비동기성을 보완하기 위한 방식
 
 
 
