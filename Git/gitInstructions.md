@@ -37,6 +37,10 @@ Mac OS를 사용하는 사람들은 기본적으로 낮은 버전의 깃이 설�
     git config —global user.name "name" (아무 이름을 적어도 상관없지만 깃허브 이름과 통일을 추천!)
     git config —global user.email "깃허브 이메일"
 
+
+git config —global user.name "chaebin Han"
+git config —global user.email "cbhan0102@gmail.com"
+
     2.깃허브 로컬저장소 지정하기
         //로컬저장소로 지정하고 싶은 폴더로 이동한다. cd "폴더명"/  <-입력
         //"git init" 명령어 입력 (해당 폴더를 git 로컬저장소로 설정하는 명령어라고 생각
